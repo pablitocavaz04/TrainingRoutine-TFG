@@ -36,10 +36,3 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 🧭 Curso: 2º DAM Mañana  
 
 ---
-
-## 🚀 Estado del proyecto
-
-🚧 *En desarrollo - entrega del anteproyecto completada.*
-
----
-
