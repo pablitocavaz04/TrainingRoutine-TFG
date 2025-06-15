@@ -57,9 +57,7 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 ### 📲 Aplicación Android
 
-📦 [**Descargar APK**](https://TU_ENLACE_DE_DESCARGA.apk)  
-> *(Sustituir por el enlace directo al archivo `.apk` cuando lo subas)*
-
+📦 [**Descargar APK**](https://github.com/pablitocavaz04/TrainingRoutine-TFG/releases/download/v1.0-final/app-debug.apk)  
 📚 [**Ver documentación del proyecto**](https://pablitocavaz04.github.io/TFGDocAndroid/)  
 🔗 [**Repositorio de la documentación**](https://github.com/pablitocavaz04/TFGDocAndroid)  
 💻 [**Repositorio del proyecto (Android - Kotlin + Firebase)**](https://github.com/pablitocavaz04/TrainingRoutine)
@@ -75,15 +73,13 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 ## 📊 Informe Power BI
 
-📈 [**Descargar informe Power BI (.pbix)**](https://TU_ENLACE_DE_DESCARGA.pbix)  
-> *(Sustituir por el enlace directo al archivo `.pbix` cuando lo subas a Google Drive, Dropbox, etc.)*
+📈 [**Descargar informe Power BI (.pbix)**](https://github.com/pablitocavaz04/TrainingRoutine-TFG/releases/download/v1.0-final/PabloPoweBiTFG.pbix)  
 
 ---
 
 ## 📄 Hoja de cálculo base
 
-📥 [**Descargar hoja Excel (.xlsx)**](https://TU_ENLACE_DE_DESCARGA.xlsx)  
-> *(Sustituir por el enlace de Google Drive, Dropbox o similar para permitir la descarga directa)*
+📥 [**Descargar hoja Excel (.xlsx)**](https://github.com/pablitocavaz04/TrainingRoutine-TFG/releases/download/v1.0-final/PabloTFGExcel.xlsx)  
 
 ---
 
