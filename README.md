@@ -36,8 +36,7 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 🧾 Entrega final del proyecto junto con la presentación y vídeo funcional de la aplicación.
 
-🎬 [**Ver vídeo de la entrega final**](https://youtu.be/ENLACE_A_TU_VIDEO_FINAL)  
-> *(Sustituir por el enlace definitivo cuando esté disponible)*
+🎬 [**Ver vídeo de la entrega final**](https://youtu.be/FuP4wpqac3I)  
 
 ---
 
