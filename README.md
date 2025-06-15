@@ -34,7 +34,56 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 ### 🎤 Exposición Final
 
-🧾 Entrega final del proyecto junto con la presentación y video funcional de la aplicación. *(Próximamente)*
+🧾 Entrega final del proyecto junto con la presentación y vídeo funcional de la aplicación.
+
+🎬 [**Ver vídeo de la entrega final**](https://youtu.be/ENLACE_A_TU_VIDEO_FINAL)  
+> *(Sustituir por el enlace definitivo cuando esté disponible)*
+
+---
+
+## 🌐 Entrega Web
+
+### 🧩 Aplicación Web
+
+🚀 [**Acceder a la aplicación**](https://trainingroutinepcv.netlify.app/)
+
+📚 [**Ver documentación del proyecto**](https://pablitocavaz04.github.io/TFGDocWeb/)  
+🔗 [**Repositorio de la documentación**](https://github.com/pablitocavaz04/TFGDocWeb)  
+💻 [**Repositorio del proyecto (Ionic + Firebase)**](https://github.com/pablitocavaz04/TrainingRoutinePCV_FB)
+
+---
+
+## 📱 Entrega Android
+
+### 📲 Aplicación Android
+
+📦 [**Descargar APK**](https://TU_ENLACE_DE_DESCARGA.apk)  
+> *(Sustituir por el enlace directo al archivo `.apk` cuando lo subas)*
+
+📚 [**Ver documentación del proyecto**](https://pablitocavaz04.github.io/TFGDocAndroid/)  
+🔗 [**Repositorio de la documentación**](https://github.com/pablitocavaz04/TFGDocAndroid)  
+💻 [**Repositorio del proyecto (Android - Kotlin + Firebase)**](https://github.com/pablitocavaz04/TrainingRoutine)
+
+---
+
+## 🐍 Análisis con Python + Pandas
+
+📊 [**Visualizar análisis interactivo**](https://pablitocavaz04.github.io/TFG_SGE_PabloCavaz/)  
+🔗 [**Repositorio del análisis en Python**](https://github.com/pablitocavaz04/TFG_SGE_PabloCavaz)
+
+---
+
+## 📊 Informe Power BI
+
+📈 [**Descargar informe Power BI (.pbix)**](https://TU_ENLACE_DE_DESCARGA.pbix)  
+> *(Sustituir por el enlace directo al archivo `.pbix` cuando lo subas a Google Drive, Dropbox, etc.)*
+
+---
+
+## 📄 Hoja de cálculo base
+
+📥 [**Descargar hoja Excel (.xlsx)**](https://TU_ENLACE_DE_DESCARGA.xlsx)  
+> *(Sustituir por el enlace de Google Drive, Dropbox o similar para permitir la descarga directa)*
 
 ---
 
@@ -42,16 +91,4 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 📌 **Pablo Camino Vázquez**  
 🎓 Instituto Alan Turing  
-🧭 Curso: 2º DAM Mañana  
-
----
-
-## 🌐 Progreso del Proyecto
-
-Para mi aplicación web en Firebase con Ionic Angular he creado la página de **About**, además de añadir dos juegos para que el usuario pueda interactuar con la web: un **Snake Game** y un **juego de memoria**. También he añadido **suscripciones para cambios en tiempo real** en la página de sesiones y entrenamientos.
-
-He comenzado a **documentar el código** y a **diseñar las interfaces con Balsamiq**.
-
-Con **Python** y la librería **pandas**, estoy haciendo pruebas con datos reales de la aplicación, aunque todavía no tengo una idea definitiva para esta parte del proyecto.
-
----
+🧭 Curso: 2º DAM Mañana
