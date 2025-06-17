@@ -87,3 +87,5 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 📌 **Pablo Camino Vázquez**  
 🎓 Instituto Alan Turing  
 🧭 Curso: 2º DAM Mañana
+
+🎬 [**Vídeo Exposición**](https://youtu.be/4J-JtzDWh_E)  
