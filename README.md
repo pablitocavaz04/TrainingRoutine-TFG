@@ -82,6 +82,12 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 ---
 
+## 📦FIGMA
+
+🧩 [**Visualizar maqueta**](https://www.figma.com/design/0gBVgHd8hOam1Xn9jb6KCW/PabloCaminoTFG?node-id=833-290&t=jKsmGzrLPjNsYplW-1)  
+
+---
+
 ## 📄 Hoja de cálculo base
 
 📥 [**Descargar hoja Excel (.xlsx)**](https://github.com/pablitocavaz04/TrainingRoutine-TFG/releases/download/v1.0-final/PabloTFGExcel.xlsx)  
