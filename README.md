@@ -76,6 +76,12 @@ Incluye una visión general del proyecto, objetivos, análisis inicial, y diseñ
 
 ---
 
+## 📦BALSAMIQ
+
+🧩 [**Visualizar boceto**](https://balsamiq.cloud/smjldb3/p96dlh5/r439C)  
+
+---
+
 ## 📄 Hoja de cálculo base
 
 📥 [**Descargar hoja Excel (.xlsx)**](https://github.com/pablitocavaz04/TrainingRoutine-TFG/releases/download/v1.0-final/PabloTFGExcel.xlsx)  
